@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/fontColor</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="textStyle">
+        <item name="android:fontFamily">@font/google_sans_regular</item>
+    </style>
+
+    <style name="textStyleBold">
+        <item name="android:fontFamily">@font/google_sans_bold</item>
+    </style>
+
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sneaker Release Countdown</string>
+    <string name="sneaker_drops_in">Sneaker drops in</string>
+    <string name="sneaker_released">Sneaker Released</string>
+    <string name="back_arrow">back arrow</string>
+    <string name="release_list">Release List</string>
+    <string name="welcome_bob_smith">Welcome Bob Smith</string>
+    <string name="view_your_favorite_nsneaker_brands">View your favorite \nsneaker brands</string>
+    <string name="see_all_releases">See all releases</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="sneaker_release_countdown">Sneaker Release Countdown</string>
+    <string name="go">GO</string>
+    <string name="available_by">Available by</string>
+    <string name="march_10">March 10</string>
+    <string name="jordan_11_low">Jordan 11 Low</string>
+    <string name="_10_nmar">10 \nMar</string>
+    <string name="forward_arrow">forward arrow</string>
+</resources>
