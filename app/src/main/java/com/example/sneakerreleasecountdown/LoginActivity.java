@@ -30,6 +30,7 @@ public class LoginActivity extends AppCompatActivity {
                 final String fromUserNameField = userNameField.getText().toString().trim();
                 final String fromPasswordField = passwordField.getText().toString().trim();
 
+
                 if (TextUtils.isEmpty(userNameField.getText()) || TextUtils.isEmpty(passwordField.getText())) {
                     showWarningToast(LoginActivity.this, "Please enter a username or password");
                 } else {

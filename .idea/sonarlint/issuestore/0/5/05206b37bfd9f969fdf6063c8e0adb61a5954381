@@ -1,5 +1,7 @@
 
-I
-java:S1068"'Remove this unused "TAG" private field.(ˆä÷¯ûÿÿÿÿ8Ç“¢•›.
-O
-java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8Ç“¢•›.
+N
+java:S1128"1Remove this unused import 'com.google.gson.Gson'.(–§8ŒæÉœ›.
+`
+java:S1128">Remove this unused import 'com.google.gson.reflect.TypeToken'.(İªıñøÿÿÿÿ8ŒæÉœ›.
+U
+java:S1128"3Remove this unused import 'java.lang.reflect.Type'.(‰ûÕñıÿÿÿÿ8ŒæÉœ›.

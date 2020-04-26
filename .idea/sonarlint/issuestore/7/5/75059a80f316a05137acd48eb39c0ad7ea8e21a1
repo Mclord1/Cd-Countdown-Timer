@@ -1,9 +1,9 @@
 
 b
-java:S1854"ERemove this useless assignment to local variable "fromPasswordField".(òü©¯8ÄÌÁ‰›.
+java:S1854"ERemove this useless assignment to local variable "fromPasswordField".(òü©¯8ü¾ß™›.
 g
-java:S1854"ERemove this useless assignment to local variable "fromUserNameField".(·š¦şÿÿÿÿ8ÄÌÁ‰›.
+java:S1854"ERemove this useless assignment to local variable "fromUserNameField".(·š¦şÿÿÿÿ8ü¾ß™›.
 X
-java:S1481"6Remove this unused "fromUserNameField" local variable.(·š¦şÿÿÿÿ8ÄÌÁ‰›.
+java:S1481"6Remove this unused "fromUserNameField" local variable.(·š¦şÿÿÿÿ8ü¾ß™›.
 S
-java:S1481"6Remove this unused "fromPasswordField" local variable.(òü©¯8ÄÌÁ‰›.
+java:S1481"6Remove this unused "fromPasswordField" local variable.(òü©¯8ü¾ß™›.

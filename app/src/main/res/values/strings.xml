@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Sneaker Release Countdown</string>
     <string name="sneaker_drops_in">Sneaker drops in</string>
-    <string name="sneaker_released">Sneaker Released</string>
+    <string name="sneaker_released">Released</string>
     <string name="back_arrow">back arrow</string>
     <string name="release_list">Release List</string>
     <string name="welcome_bob_smith">Welcome Bob Smith</string>

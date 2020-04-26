@@ -16,7 +16,7 @@ public class HomeActivity extends AppCompatActivity {
         findViewById(R.id.favoriteSneakersButton).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(HomeActivity.this, AllReleasesActivity.class));
+                startActivity(new Intent(HomeActivity.this, FavoriteSneakersActivity.class));
             }
         });
 

@@ -68,6 +68,7 @@ public class SneakerListAdapter extends RecyclerView.Adapter<SneakerListAdapter.
         }
     }
 
+
     public interface SneakerItemListener {
         void onItemClick(int position);
     }
